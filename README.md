@@ -10,7 +10,10 @@ The purpose of this project is ________. (Describe the main goals of the project
 |---------|-----------------|--------------------|
 |Iskriyana | [iskriyana](https://github.com/Iskriyana) |
 
-### Methods Used
+### Instalación del entorno de desarrollo
+- Anaconda.
+- Python.
+- Google Colab  
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
