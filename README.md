@@ -11,6 +11,18 @@ The purpose of this project is ________. (Describe the main goals of the project
 |Iskriyana | [iskriyana](https://github.com/Iskriyana) |
 
 ### Instalación del entorno de desarrollo
+<ol>
+<li>Anaconda</li>
+  Anaconda es una distribución de Python que incluye una gran colección de paquetes científicos. Simplifica el manejo de paquetes y versiones.
+  - Paso 1: Descarga e instala Anaconda [Link](https://www.anaconda.com/download)
+  This site was built using [GitHub Pages](https://pages.github.com/)
+  [Lin](https://www.anaconda.com/download)
+   [iskriyana](https://github.com/Iskriyana) 
+<li>Python</li>
+<li>Colab</li>
+</ol>
+
+
 - Anaconda.
 - Python.
 - Google Colab  
